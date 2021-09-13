@@ -1,0 +1,22 @@
+{
+  "name": "virak-test-hosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virak/virak-test-hosting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virak/virak-test-hosting/issues"
+  },
+  "homepage": "https://github.com/virak/virak-test-hosting#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
